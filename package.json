@@ -59,7 +59,7 @@
         "@angular/platform-browser-dynamic": "^4.0.0",
         "@angular/router": "^4.0.0",
         "@compodoc/compodoc": "^1.0.0-beta.9",
-        "@types/jasmine": "^2.5.47",
+        "@types/jasmine": "^2.8.17",
         "@types/karma": "^0.13.35",
         "@types/log4js": "0.0.33",
         "@types/node": "^7.0.18",
