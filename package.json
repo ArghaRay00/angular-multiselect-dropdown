@@ -62,7 +62,7 @@
         "@types/jasmine": "^2.5.47",
         "@types/karma": "^0.13.35",
         "@types/log4js": "0.0.33",
-        "@types/node": "^7.0.18",
+        "@types/node": "^7.10.14",
         "@types/webpack": "4.4.0",
         "@types/webpack-env": "^1.13.0",
         "angular2-template-loader": "^0.6.2",
