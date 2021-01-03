@@ -72,7 +72,7 @@
         "codelyzer": "^3.0.1",
         "concurrently": "^3.6.1",
         "css-loader": "^0.28.1",
-        "gh-pages": "^1.0.0",
+        "gh-pages": "^1.2.0",
         "gulp": "^3.9.1",
         "gulp-copy": "^1.0.1",
         "gulp-inline-ng2-template": "^4.0.0",
