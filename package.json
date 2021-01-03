@@ -85,7 +85,7 @@
         "karma-coverage-istanbul-reporter": "^1.2.1",
         "karma-jasmine": "^1.1.0",
         "karma-mocha-reporter": "^2.2.3",
-        "karma-sourcemap-loader": "^0.3.7",
+        "karma-sourcemap-loader": "^0.3.8",
         "karma-webpack": "^2.0.3",
         "ng2-gist": "*",
         "node-sass": "^4.14.1",
