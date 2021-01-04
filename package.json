@@ -97,7 +97,7 @@
         "source-map-explorer": "^1.8.0",
         "to-string-loader": "^1.1.6",
         "ts-node": "^3.0.4",
-        "tslint": "^5.2.0",
+        "tslint": "^5.20.1",
         "typescript": "^2.3.2",
         "webpack": "^2.5.1",
         "webpack-angular-externals": "^1.0.2",
