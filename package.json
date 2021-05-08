@@ -44,7 +44,7 @@
     "dependencies": {
         "@fortawesome/angular-fontawesome": "0.1.0-10",
         "@fortawesome/fontawesome-svg-core": "1.2.0-11",
-        "karma-jasmine-html-reporter": "^1.5.4"
+        "karma-jasmine-html-reporter": "^1.6.0"
     },
     "devDependencies": {
         "@angular/animations": "4.0.0",
