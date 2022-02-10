@@ -88,7 +88,7 @@
         "karma-sourcemap-loader": "^0.3.8",
         "karma-webpack": "^2.0.3",
         "ng2-gist": "*",
-        "node-sass": "^4.14.1",
+        "node-sass": "^7.0.1",
         "primeng": "4.2.2",
         "raw-loader": "^0.5.1",
         "rimraf": "2.6.1",
